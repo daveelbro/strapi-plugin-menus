@@ -4,7 +4,7 @@
   "description": "A plugin for Strapi CMS to customize the structure of menus and menu items.",
   "license": "MIT",
   "strapi": {
-    "displayName": "Menus",
+    "displayName": "menus",
     "name": "menus",
     "description": "Customize the structure of menus and menu items.",
     "kind": "plugin"
